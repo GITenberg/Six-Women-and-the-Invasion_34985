@@ -1,0 +1,45 @@
+_repo: Six-Women-and-the-Invasion_34985
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Arnold, Mary Augusta
+    - Ward, Mary Augusta Arnold
+    - Ward, Mrs. Humphry
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Yerta, Gabrielle
+    gutenberg_agent_id: '37369'
+    url: http://www.gutenberg.org/2009/agents/37369
+  - agent_name: Méléra, Marguerite-Yerta
+    aliases:
+    - Yerta Méléra, Marguerite
+    - Melera, Marguerite-Yerta
+    - Yerta, Marguerite
+    birthdate: 1889
+    gutenberg_agent_id: '37370'
+    url: http://www.gutenberg.org/2009/agents/37370
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2011-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+title: Six Women and the Invasion
+url: http://www.gutenberg.org/ebooks/34985
