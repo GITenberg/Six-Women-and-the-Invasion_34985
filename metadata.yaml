@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '37370'
     url: http://www.gutenberg.org/2009/agents/37370
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34985#Six-Women-and-the-Invasion
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2011-01-16'
 gutenberg_type: Text
